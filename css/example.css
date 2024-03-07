@@ -61,28 +61,4 @@ background: skyblue;}
   font-style: normal;
 }
 
-.blue {
-	padding: 1rem;
-	min-width: 50px;
-	min-height: 50px;
-	background: blueviolet;
-	border: 5px solid darkred;
-}
-
-.red {
-	padding: 1rem;
-	min-width: 50px;
-	min-height: 50px;
-	background: darkcyan;
-	border: 5px dotted darkgreen;
-}
-
-.green {
-	padding: 1rem;
-		min-width: 50px;
-	min-height: 50px;
-	background: seagreen;
-	border: 5px solid mediumpurple; 
-}
-}
 }
