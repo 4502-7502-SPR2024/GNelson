@@ -1,5 +1,5 @@
 
-{nav {
+nav {
 	display: flex;
 	justify-content: center;
   font-family: "Roboto Slab", serif;
@@ -7,13 +7,13 @@
   font-weight: <200>;
   font-style: normal;
 }
-{nav a {
+nav a {
 		font-family: "Roboto Slab", serif;
 		text-align: center;
 		text-decoration: none;
 		justify-content: center;
 }
-{body {
+body {
 	 scrollbar-color: green;
   scrollbar-width: thin;
 	background: skyblue;
@@ -23,13 +23,13 @@
   font-optical-sizing: auto;
   font-style: normal;font-size: 14;
 }
-{body
+body
 	display: flex;
 	justify-content: center;
 	margin-left: 1rem;
 	margin-right: 1rem;
 }
-{.lead-image {
+.lead-image {
 	display: flex;
 	justify-content: center;
 
@@ -51,7 +51,7 @@ background: skyblue;}
   font-style: normal;
   font-size: 25;
 }
- {title {
+ title {
 	display: flex;
 	justify-content: center;
 	background: palevioletred;
